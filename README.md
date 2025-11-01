@@ -1,8 +1,7 @@
-# 📊 Telecom Customer Churn Analysis | Power BI, MySQL
+# 📊 Telecom_Customer_Churn_Analysis 
 
 ## 📘 Project Overview
-This project analyzes customer churn behavior for a telecom company using Power BI and MySQL.  
-The goal is to uncover key patterns behind customer attrition and generate actionable insights to help the business reduce churn and improve customer retention.
+This project analyzes customer churn behavior for a telecom company using Power BI and MySQL. The goal is to uncover key patterns behind customer attrition and generate actionable insights to help the business reduce churn and improve customer retention.
 
 ---
 
@@ -12,8 +11,6 @@ The dataset contains detailed customer information, including:
 - **Services:** Internet, phone, streaming TV, online security, backup  
 - **Account Info:** Tenure, contract type, payment method  
 - **Target Variable:** Churn label (Yes/No)
-
-**Source:** [Customer Churn Dataset]
 
 ---
 
@@ -26,10 +23,10 @@ The dataset contains detailed customer information, including:
 ---
 
 ## 📈 Key Metrics
-| Total Customers | 7,043 |
-| Total Churned Customers | 1,869 |
-| Overall Churn Rate | 26.5% |
-| New Joiners | 411 |
+- **Total Customers:** 7,043  
+- **Total Churned Customers:** 1,869  
+- **Overall Churn Rate:** 26.5%  
+- **New Joiners:** 411  
 
 ---
 
